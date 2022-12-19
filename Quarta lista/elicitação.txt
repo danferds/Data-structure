@@ -1,0 +1,44 @@
+- Elicitar = extrair informações;
+    Os requisitos não estão prontos para ser coletado.
+
+- Elicitação é sobre aprender sobre o ambiente -> situação atual (o que os usuários estão precisado fazer
+em termos de tarefas...) e situação desjeada ();
+
+- A elcitação é sucetível a erros, por isso, ter uma bao comunicação é essencial.
+
+- Séria de perguntas importantes:
+    1. Quando? O momento que uma tarefa será executada(Emitir 2000 notas fiscais no último dia do mês);
+    2. como? Como uma tarefa será executada;
+    3. Quem? Pessoas que irão utilizar os sistema;
+    4. O quê? Qual a tarefa que os usuários querem executar (criar lsita de compras, pgar uma conta);
+    5. Onde? Onde o sistema será utilizado (em casa, ambiente comercial, celurares, computador);
+    6. Quanto? Quantidade de algo (precisa emitir 2000 notas fiscais por mês);
+    7. Por quê? Ajuda a entender as motivações, a entender como a situação atual chegou naquele ponto. (Por quê 2000 notas fiscais, por quê no último dia do mês);
+
+- Fontos de Elicitação:
+    1. Entrevistas de discução com os usuários e stakeholders;
+    2. Documentação, legislação;
+    3. Especificações de sistemas;
+    4. Estudos de marketing e questionários com os usuários;
+    5. Observações (etnografia);
+    6. Análide de cenários;
+
+- Como começar a etapa de Elicitação:
+    1. Estabelicimento da visão;
+        . Possui várias formas de desenvolver a visão;
+        . A visão do produto direciona o escopo do projeto;
+
+- As atividades de elcitação vai até o fim do projeto, é algo ciclico.
+
+- Usários diretos -> utilizam efetivamente o sistema;
+- usuários indiretos -> fornecem dados para o sistema.
+
+- Os 3 pilares da elcitação de requisitos:
+    1. Explorar soluções;
+    2. Entender as necessidades;
+    3. Identificar os stakeholders;
+
+- Capacidades importantes para um analista de requisitos
+    1. Habilidades sociais;
+    2. Conhecimento técnico;
+    3. Conhecimento do domínio.

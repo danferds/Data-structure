@@ -1,0 +1,30 @@
+Modelo conceitual -> Conceitos e relacionamentos.
+    DESPESA:
+        conta, data, valor, tipo, quem gastou.
+
+8° da primeira lista.
+
+5° da segunda lista 
+    A visão do produto mantém um norte de desenvolvimento. (visão geral, guiar o escopo aberto).
+    A visão apoia o escopo aberto (escopo aberto é uma característica dos métodos ágeis).
+
+3° Questão (Obejetivo de negocios)
+    Ajuda a explorar as soluções.
+
+7° da lista segunda lista (Página 108 do livro).
+
+10° da segunda lista (Página 120 do livro).
+    Preparaçao -> execução -> folaw up (Revisão).
+
+8° Questão segunda lista.
+    Listar as responsabilidades. No xp chama-se de (Custer in site -> ele fica junto da equipe  
+    durante o desenvolvimento);
+    No xp não existe o planejamento (sprint planing).
+
+3° da terceira lista
+    Cenário de uso é uma tarefa que pode ser executada pelo usuário.
+    Resposta: Utilizar sala de bate-papo, consultar frequência, consultar nota. 
+    Tipos -> Caso de uso e estória de usuário (Pesquisar sobre -> Página 150 do livro).
+        Casos de uso são bons quando as interfaces são muito complicadas.
+
+- Estudor até análise de requisitos. 
